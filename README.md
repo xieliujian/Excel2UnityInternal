@@ -43,7 +43,7 @@
     
 *   Excel配置使用
     
-    ![](https://raw.githubusercontent.com/xieliujian/Excel2Unity/master/Snapshots/QQ%E6%88%AA%E5%9B%BE20170928092831.bmp)
+    ![](https://raw.githubusercontent.com/xieliujian/Excel2UnityInternal/master/Snapshots/QQ%E6%88%AA%E5%9B%BE20170928092831.bmp)
     
     * Excel表头有5行
     
